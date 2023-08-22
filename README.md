@@ -1,1 +1,1 @@
-# cp_resources
+# Competetivew programming
